@@ -1,4 +1,5 @@
 ## Install
+`git clone https://github.com/ismail4567/subfinder.git`<br> <br>
 
 ## Dependencies
 ### Assetfinder

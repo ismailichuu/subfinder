@@ -1,7 +1,7 @@
 ## Install
 `git clone https://github.com/ismail4567/subfinder.git`
 ## Usage
-
+`chmod+x subfinder.sh`
 ## Dependencies
 ### Assetfinder
 `sudo apt install assetfinder` <br> <br>

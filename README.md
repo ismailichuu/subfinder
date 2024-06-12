@@ -16,5 +16,5 @@ See more about httprobe [click here.](https://www.kali.org/tools/httprobe/#:~:te
 A subdomain is a prefix added to a domain name to create a separate section of a website. Subdomains can be used to organize content, improve navigation, and support SEO. They can also be used to identify and separate different types of sites, such as mobile sites, location-specific sites, or sub-sections of a site.
 ![](subdomain.webp)
 <br><br>
-[!NOTE] 
-This Script is finding all the subdomains of a domain using **Assetfinder** and sorting alived subs using **httprobe**.
+> [!NOTE] 
+> This Script is finding all the subdomains of a domain using **Assetfinder** and sorting alived subs using **httprobe**.

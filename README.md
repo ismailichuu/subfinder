@@ -18,7 +18,9 @@ A subdomain is a prefix added to a domain name to create a separate section of a
 <br><br>
 > [!NOTE] 
 > This Script is finding all the subdomains of a domain using **Assetfinder** and sorting alived subs using **httprobe**.
+
 ![](https://gifer.com/en/2GU)
+
 > [!WARNING]
 > **This is only for education purpose only. How use this is your responsibilty. I will not be held accountable for any illegal activities**
 

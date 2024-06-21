@@ -22,6 +22,5 @@ A subdomain is a prefix added to a domain name to create a separate section of a
 > [!WARNING]
 > **This is only for education purpose only. How use this is your responsibilty. I will not be held accountable for any illegal activities**
 
-<br>
-![](2GU.gif)
+![](2GU.gif)<br>
 Enjoy it.............!
